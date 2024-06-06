@@ -1,3 +1,5 @@
+# This code list all users in sagemaker domain and show the list of users and apps in CSV format.
+
 import boto3
 import csv
 from botocore.exceptions import NoCredentialsError, PartialCredentialsError, ParamValidationError
