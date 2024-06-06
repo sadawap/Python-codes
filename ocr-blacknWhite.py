@@ -1,3 +1,5 @@
+# This code convert the images to black and white and then extract the text from images.
+
 import pytesseract
 from PIL import Image, ImageEnhance
 
